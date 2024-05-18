@@ -30,3 +30,11 @@ Change the @match location in the script to match your Komga URL.
 
 Note: The script will not work until you update the @match location to your specific Komga URL.
 
+
+**How to use**
+
+When you're in the reader menu of a comic or manga, use the + or - buttons in the top right corner to adjust the zoom levels.
+
+Read level does not save and will reset when leaving
+
+![buttons](https://github.com/wanestar/KomgaZoom/assets/59542068/ce302b70-1b89-4a7f-a82e-2df5a8a2b2e0)
