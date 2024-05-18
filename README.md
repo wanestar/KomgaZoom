@@ -20,6 +20,6 @@ Import the downloaded KomgaZoom.user.js file into Tampermonkey or another script
 Open the script in your script manager.
 Change the @match location in the script to match your Komga URL.
 
-_**
+
 Note: The script will not work until you update the @match location to your specific Komga URL.
-**_
+
