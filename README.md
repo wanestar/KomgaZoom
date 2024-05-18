@@ -8,19 +8,19 @@ Add image resizing buttons to the top toolbar in the Komga reader, responsive to
 
 <br>
 
-<h1>Download the Script</h1>
+<h2>Download the Script</h2>
 
 Go to the releases tab and download the latest `KomgaZoom.user.js` file.
 
 <br>
 
-<h1>Import the Script</h1>
+<h2>Import the Script</h2>
 
 Import the downloaded `KomgaZoom.user.js` file into Tampermonkey or another script manager.
 
 <br>
 
-<h1>Update the Script</h1>
+<h2>Update the Script</h2>
 
 Open the script in your script manager. Change the `@match` location in the script to match your Komga URL.
 
