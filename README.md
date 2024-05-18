@@ -38,6 +38,12 @@ When you're in the reader menu of a comic or manga, use the + or - buttons in th
 
 Read level does not save and will reset when leaving.
 
+This script is particularly useful for zooming out on the "Original" scale type in Komga, offering significant advantages over the "Fit Width" option.
+
+For example, when using the "Fit Width" scaling, double-page spreads are condensed to fit the screen, which can make them difficult to read. In contrast, the "Original" scale preserves the normal size of the pages. However, images are often too large to read comfortably, and while zooming out in Chrome can help, it also resizes the entire user interface, which is not ideal.
+
+This script resolves that issue by allowing you to zoom out on the image without affecting the rest of the UI.
+
 <br>
 
 ![buttons](https://github.com/wanestar/KomgaZoom/assets/59542068/ce302b70-1b89-4a7f-a82e-2df5a8a2b2e0)
