@@ -30,6 +30,7 @@ Change the @match location in the script to match your Komga URL.
 
 Note: The script will not work until you update the @match location to your specific Komga URL.
 
+<br>
 
 **How to use**
 
