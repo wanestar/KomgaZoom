@@ -34,6 +34,7 @@ Note: The script will not work until you update the @match location to your spec
 
 <br>
 
+
 **How to use**
 
 When you're in the reader menu of a comic or manga, use the + or - buttons in the top right corner to adjust the zoom levels.
